@@ -2,7 +2,7 @@
 
 This website aims to measure stress level based on various questions. It also provides guidelines and manages mental well being. 
 
-Check it out [here](https://github.com/software2304/Stress-Test)!
+Check it out [here](https://software2304.github.io/Stress-Test/)!
 
 ## Tech Stack
 ### Frontend:

@@ -31,3 +31,9 @@ It contains set of questions where user puts range of value based on their exper
 ### Smart Solutions 
 This section provides user methods to reduce their stress and keep it in check through music, motivational video and contact to counsellor option is also provided to seek proper help if necessary. 
 
+![image](https://github.com/software2304/Stress-Test/assets/109336029/beb5f4f1-7f7b-49ec-bd6e-02e8ca50e31c)
+![image](https://github.com/software2304/Stress-Test/assets/109336029/4b3d7b8d-4691-43ea-ab66-163321b64ba4)
+![image](https://github.com/software2304/Stress-Test/assets/109336029/912f01ce-b6f3-4385-89ee-78dac4ecdaaf)
+![image](https://github.com/software2304/Stress-Test/assets/109336029/f4752ee3-298b-474d-8bf9-1f484d3d2473)
+![image](https://github.com/software2304/Stress-Test/assets/109336029/b2520a67-d47e-41b2-bc08-9d698b06ada3)
+

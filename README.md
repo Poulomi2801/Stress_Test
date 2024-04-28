@@ -1,7 +1,33 @@
-![image](https://github.com/software2304/Stress-Test/assets/109336029/c89c80fa-5dd0-418e-94cf-b451cff7ebd7)
-![image](https://github.com/software2304/Stress-Test/assets/109336029/e34c32b0-4645-410f-b9fb-dbd6a913c436)
-![image](https://github.com/software2304/Stress-Test/assets/109336029/3c150195-11ec-4198-8d72-ac8b21aa827f)
-![image](https://github.com/software2304/Stress-Test/assets/109336029/00550bc4-65d7-413f-8638-d0cad94bf445)
-![image](https://github.com/software2304/Stress-Test/assets/109336029/82a236de-e3aa-4256-8661-59102b2ef3da)
-![image](https://github.com/software2304/Stress-Test/assets/109336029/d9a5faae-8e64-48e5-bbe1-3b5714607445)
-![image](https://github.com/software2304/Stress-Test/assets/109336029/045bdc35-a53c-49ea-b32f-4d3e4ff98f91)
+# Stress-Check
+
+This website aims to measure stress level based on various questions. It also provides guidelines and manages mental well being. 
+
+Check it out [here](https://github.com/software2304/Stress-Test)!
+
+## Tech Stack
+### Frontend:
+* HTML 
+* CSS
+* Bootstrap
+* Javascript
+
+### Backend+db (preferred):
+* NodeJS
+* ExpressJS
+* MongoDB
+
+
+## Components
+
+### Diet Chart
+User fills in some data like type of diet, allergic food items, etc and a diet chart is generated for proper balanced diet. It also contains `links` for recipe for the dishes suggested.<br>
+<b>API used:</b><br>
+[Spoonacular Generate Meal Plan](https://spoonacular.com/food-api/docs#Generate-Meal-Plan) 
+
+### Stress Test
+
+It contains set of questions where user puts range of value based on their experience and the system detects level of stress along to smart solution to reduce the stress. 
+
+### Smart Solutions 
+This section provides user methods to reduce their stress and keep it in check through music, motivational video and contact to counsellor option is also provided to seek proper help if necessary. 
+
